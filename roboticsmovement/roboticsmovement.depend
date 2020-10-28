@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603908203 source:d:\c-programming\projects\practices\roboticsmovement\main.c
+	<stdio.h>
+	<stdlib.h>
+
