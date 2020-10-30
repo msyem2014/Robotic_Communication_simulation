@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1603911116 source:c:\users\youse\onedrive\desktop\free session\roboticmovements\connections.c
+	"definitions.h"
+
+1603908080 c:\users\youse\onedrive\desktop\free session\roboticmovements\definitions.h
+
+1603910964 source:c:\users\youse\onedrive\desktop\free session\roboticmovements\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definitions.h"
+	"prototypes.h"
+
+1603910416 c:\users\youse\onedrive\desktop\free session\roboticmovements\prototypes.h
+
+1603910878 source:c:\users\youse\onedrive\desktop\free session\roboticmovements\operatingsystem.c
+	"definitions.h"
+
+1603910686 source:c:\users\youse\onedrive\desktop\free session\roboticmovements\printing.c
+	"definitions.h"
+
